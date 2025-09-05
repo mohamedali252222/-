@@ -1,0 +1,5 @@
+{
+  "name": "El-Meel Warehouse Management",
+  "description": "A comprehensive warehouse management system for El-Meel Contracting Company, designed to handle items, inventory, projects, and invoicing with a focus on an Arabic-first, RTL user experience.",
+  "requestFramePermissions": []
+}
